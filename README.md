@@ -1,6 +1,6 @@
 # .stylelintrc
 
-Add the `.stylelintrc`file on the root of your project in order to have a config
+Add the `.stylelintrc` file on the root of your project in order to have a config
 file to lint the styles.
 
 [Stylelint info](https://stylelint.io/user-guide/cli/)

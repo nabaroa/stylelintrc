@@ -1,0 +1,19 @@
+{
+  "name": "stylelintrc",
+  "version": "1.0.0",
+  "description": "Add the `.stylelintrc` file on the root of your project in order to have a config file to lint the styles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabaroa/stylelintrc.git"
+  },
+  "author": "@nabaroa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabaroa/stylelintrc/issues"
+  },
+  "homepage": "https://github.com/nabaroa/stylelintrc#readme"
+}
